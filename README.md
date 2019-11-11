@@ -2,8 +2,6 @@
 
 For consideration as the antibrand website's forum software.
 
-## Development
-
 ## Setup
 
 If you want to set up a forum for production use, see [the install guide](docs/INSTALL.md).
