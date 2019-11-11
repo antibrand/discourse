@@ -23,4 +23,4 @@ Discourse is built for the *next* 10 years of the Internet, so our requirements 
 - [Ember.js](https://github.com/emberjs/ember.js) &mdash; Frontend is an Ember.js app that communicates with the Rails API.
 - [PostgreSQL](https://www.postgresql.org/) &mdash; Main data store is in Postgres.
 - [Redis](https://redis.io/) &mdash; Redis is used as a cache and for transient data.
-- Complete list of Ruby Gems at [/master/Gemfile](https://github.com/antibrand/discourse/blob/master/Gemfile).
+- Complete list of Ruby Gems at [/master/Gemfile](blob/master/Gemfile).
